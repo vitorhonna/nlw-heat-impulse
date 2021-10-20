@@ -1,6 +1,6 @@
 # Next Level Week #7: Heat
 
-![nlw-heat-impulse-logo](./nlw-heat-impulse.png)
+![nlw-heat-impulse-logo](./nlw-heat-impulse.jpg)
 Evento da Rocketseat de 18 a 24 de outubro de 2021.
 
 ## Trilha Impulse
