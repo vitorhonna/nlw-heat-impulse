@@ -12,7 +12,7 @@ Evento da Rocketseat de 18 a 24 de outubro de 2021.
 [Videos](https://nextlevelweek.com/episodios/impulse/aula-1/edicao/7)
 
 - ✅ 17/out/21 - Abertura
-- ❌ 18/out/21 - Stage 1
+- ✅ 18/out/21 - Stage 1
 - ❌ 19/out/21 - Stage 2
 - ❌ 20/out/21 - Stage 3
 - ❌ 21/out/21 - Stage 4
