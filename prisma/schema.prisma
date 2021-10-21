@@ -9,11 +9,23 @@ datasource db {
 
 model User {
   id         String @id @default(uuid()) // coluna id tipo string, primary key e com auto incremento
-  name       String
+  name       String // todos são obrigatórios, para facultativo colocar "?" ao lado do tipo
   github_id  Int
   avatar_url String
   login      String
 
+  messages Message[]
   // nome da tabela
   @@map("users")
+}
+
+model Message {
+  id        String   @id @default(uuid())
+  text      String
+  create_at DateTime @default(now())
+
+  user User @relation(fields: [user_id], references: [id]) // relacionamento entre tabelas
+
+  user_id String
+  @@map("messages")
 }
