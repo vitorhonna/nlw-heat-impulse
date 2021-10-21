@@ -89,3 +89,9 @@ typings/
 
 # VSCode settings
 .vscode
+
+node_modules
+.DS_Store
+dist
+dist-ssr
+*.local
