@@ -6,4 +6,4 @@ class CreateMessageController {
   }
 }
 
-export { CreateMessageController }
+export { CreateMessageController } 
