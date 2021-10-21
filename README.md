@@ -19,7 +19,7 @@ Evento da Rocketseat de 18 a 24 de outubro de 2021.
 - ❌ 22/out/21 - Stage 5
 - ❌ 24/out/21 - Encerramento
 
-[Repositório da Aula 01 - Node.js](https://github.com/rocketseat-education/nlw-heat-node)
+[Repositório da Aula 01 - Node.js](https://github.com/rocketseat-education/nlw-heat-node)\
 [Repositório da Aula 02 - ReactJS](https://github.com/rocketseat-education/nlw-heat-web)
 
 ## Tools
