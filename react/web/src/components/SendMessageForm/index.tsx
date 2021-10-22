@@ -15,6 +15,11 @@ export function SendMessageForm() {
       return;
     }
 
+    if (message.length>280) {
+      alert("A mensagem deve conter no máximo 280 caracteres.")
+      return;
+    }
+
     await api.post('messages', { message })
 
     setMessage('');
