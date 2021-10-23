@@ -95,3 +95,16 @@ node_modules
 dist
 dist-ssr
 *.local
+
+# mobile
+node_modules/
+.expo/
+dist/
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
