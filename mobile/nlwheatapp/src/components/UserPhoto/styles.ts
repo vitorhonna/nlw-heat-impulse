@@ -7,7 +7,7 @@ export const styles = StyleSheet.create({
     alignItems: 'center',
   },
   avatar: {
-    borderWidth: 4,
+    borderWidth: 2,
     borderColor: COLORS.BLACK_SECONDARY,
   }
 });
