@@ -7,11 +7,11 @@ export function MessageList() {
 
   const message = {
     id: '1',
-    text: 'mensagem de teste',
+    text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis est minus, dolor non laudantium similique fugiat officiis numquam dolore.',
     user: {
       name: 'Vitor',
       avatar_url: 'https://github.com/vitorhonna.png',
-  }
+    }
   }
 
   return (
