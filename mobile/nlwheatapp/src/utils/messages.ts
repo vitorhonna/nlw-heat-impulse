@@ -1,6 +1,6 @@
 export const MESSAGES_EXAMPLE = [
   {
-    id: '1',
+    id: '1_fdfsfghf65sd4f651sd',
     text: 'Não vejo a hora de começar esse evento, com certeza vai ser o melhor de todos os tempos, vamooo pra cima! 🔥🔥',
     user: {
       name: 'Dianne Russell',
@@ -8,7 +8,7 @@ export const MESSAGES_EXAMPLE = [
     }
   },
   {
-    id: '2',
+    id: '2_1f654fs65d1fsd35f',
     text: 'Esse vai ser simplesmente fantástico! Bora aprender tudo em relação a montagem de APIs GraphQL. Sem contar com as palestras e painéis.',
     user: {
       name: 'Guy Hawkins',
@@ -16,7 +16,7 @@ export const MESSAGES_EXAMPLE = [
     }
   },
   {
-    id: '3',
+    id: '3_fsd54f6sd54f5sd',
     text: 'Sem dúvida as palestras vão ser úteis para a minha carreira e para a de muitos 😍 #gorocket',
     user: {
       name: 'Eleanor Pena',
@@ -24,7 +24,7 @@ export const MESSAGES_EXAMPLE = [
     }
   },
   {
-    id: '4',
+    id: '4_f5sd465f4sd8f5ds',
     text: 'Não vejo a hora de começar esse evento, com certeza vai ser o melhor de todos os tempos, vamooo pra cima! 🔥🔥',
     user: {
       name: 'Dianne Russell',
@@ -32,7 +32,7 @@ export const MESSAGES_EXAMPLE = [
     }
   },
   {
-    id: '5',
+    id: '5_f5sd4fsd4f6d4fds56fsd',
     text: 'Não vejo a hora de começar esse evento, com certeza vai ser o melhor de todos os tempos, vamooo pra cima! 🔥🔥',
     user: {
       name: 'Dianne Russell',
@@ -40,7 +40,7 @@ export const MESSAGES_EXAMPLE = [
     }
   },
   {
-    id: '6',
+    id: '6_84wr7e98r7we98r7ew98',
     text: 'Esse vai ser simplesmente fantástico! Bora aprender tudo em relação a montagem de APIs GraphQL. Sem contar com as palestras e painéis.',
     user: {
       name: 'Guy Hawkins',
@@ -48,7 +48,7 @@ export const MESSAGES_EXAMPLE = [
     }
   },
   {
-    id: '7',
+    id: '7_rwe7r9ew7r98we7r98ew',
     text: 'Sem dúvida as palestras vão ser úteis para a minha carreira e para a de muitos 😍 #gorocket',
     user: {
       name: 'Eleanor Pena',
@@ -56,7 +56,7 @@ export const MESSAGES_EXAMPLE = [
     }
   },
   {
-    id: '8',
+    id: '8_7wr987e98r7ew98r7we98rwe',
     text: 'Não vejo a hora de começar esse evento, com certeza vai ser o melhor de todos os tempos, vamooo pra cima! 🔥🔥',
     user: {
       name: 'Dianne Russell',
