@@ -37,7 +37,7 @@ export function MessageList() {
       }
     }, 3000);
 
-    return() => clearInterval(timer);
+    return () => clearInterval(timer);
   }, [])
 
   return (
