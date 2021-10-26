@@ -7,10 +7,11 @@ defmodule HeatTags.Tags.Count do
     |> Task.async_stream(&count_words(&1.message))
     |> Enum.reduce(%{}, fn elem, acc -> sum_values(elem, acc) end)
     # |> Enum.reduce(%{}, &sum_values(&1, &2))
+    |> IO.inspect()
   end
 
   defp count_words(message) do
-    message.message
+    message
     |> String.split()
     |> Enum.frequencies()
   end
