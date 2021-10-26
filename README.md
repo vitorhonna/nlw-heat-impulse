@@ -16,13 +16,14 @@
 - ✅ 18/out/21 - Stage 1
 - ✅ 19/out/21 - Stage 2
 - ✅ 20/out/21 - Stage 3
-- ❌ 21/out/21 - Stage 4
-- ❌ 22/out/21 - Stage 5
-- ❌ 24/out/21 - Encerramento
+- ✅ 21/out/21 - Stage 4
+- ✅ 22/out/21 - Stage 5
+- ✅ 24/out/21 - Encerramento
 
 [Repositório da Aula 01 - Node.js](https://github.com/rocketseat-education/nlw-heat-node)\
 [Repositório da Aula 02 - ReactJS](https://github.com/rocketseat-education/nlw-heat-web)\
 [Repositório da Aula 03 - React Native](https://github.com/rocketseat-education/nlw-heat-reactnative)
+[Repositório da Aula 04 - Elixir](https://github.com/rocketseat-education/nlw-heat-elixir)
 
 ## Tools
 
