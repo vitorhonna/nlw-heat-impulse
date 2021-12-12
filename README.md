@@ -13,10 +13,10 @@
 [Videos](https://nextlevelweek.com/episodios/impulse/aula-1/edicao/7)
 
 - ✔️ 17/out/21 - Abertura
-- ✔️ 18/out/21 - Stage 1
-- ✔️ 19/out/21 - Stage 2
-- ✔️ 20/out/21 - Stage 3
-- ✔️ 21/out/21 - Stage 4
+- ✔️ 18/out/21 - Stage 1 (2h02)
+- ✔️ 19/out/21 - Stage 2 (2h03)
+- ✔️ 20/out/21 - Stage 3 (2h52)
+- ✔️ 21/out/21 - Stage 4 (1h57)
 - ✔️ 22/out/21 - Stage 5
 - ✔️ 24/out/21 - Encerramento
 
