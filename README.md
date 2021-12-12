@@ -12,13 +12,13 @@
 
 [Videos](https://nextlevelweek.com/episodios/impulse/aula-1/edicao/7)
 
-- ✅ 17/out/21 - Abertura
-- ✅ 18/out/21 - Stage 1
-- ✅ 19/out/21 - Stage 2
-- ✅ 20/out/21 - Stage 3
-- ✅ 21/out/21 - Stage 4
-- ✅ 22/out/21 - Stage 5
-- ✅ 24/out/21 - Encerramento
+- ✔️ 17/out/21 - Abertura
+- ✔️ 18/out/21 - Stage 1
+- ✔️ 19/out/21 - Stage 2
+- ✔️ 20/out/21 - Stage 3
+- ✔️ 21/out/21 - Stage 4
+- ✔️ 22/out/21 - Stage 5
+- ✔️ 24/out/21 - Encerramento
 
 [Repositório da Aula 01 - Node.js](https://github.com/rocketseat-education/nlw-heat-node)\
 [Repositório da Aula 02 - ReactJS](https://github.com/rocketseat-education/nlw-heat-web)\
